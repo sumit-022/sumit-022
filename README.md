@@ -21,7 +21,7 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-022&" alt="sumit-022" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-022&" alt="sumit-022" width="100%" height="300px" />
 </p>
 
 <h3 align="left">Support:</h3>
